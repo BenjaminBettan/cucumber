@@ -21,3 +21,4 @@ keywords here : https://github.com/cucumber/cucumber/wiki/Feature-Introduction
 
 get a string in java code (annotations) : (.*)
 
+https://github.com/DamienFremont/blog/tree/master/20150129-test-cucumber_java
