@@ -2,6 +2,9 @@
 # cucumber
 ################################################################
 
+Testing cucmber from this example with a lot of informations (french)
+-> https://github.com/DamienFremont/blog/tree/master/20150129-test-cucumber_java
+
 
 maven update clean install
 
@@ -19,6 +22,7 @@ fix code (delete lines "throw new PendingException();")
 
 keywords here : https://github.com/cucumber/cucumber/wiki/Feature-Introduction
 
-get a string in java code (annotations) : (.*)
+get a string from feature file to java code simply add "this is a sting input"
 
-https://github.com/DamienFremont/blog/tree/master/20150129-test-cucumber_java
+
+
