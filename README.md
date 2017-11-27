@@ -22,7 +22,8 @@ fix code (delete lines "throw new PendingException();")
 
 keywords here : https://github.com/cucumber/cucumber/wiki/Feature-Introduction
 
-get a string from feature file to java code simply add "this is a sting input"
+get a string   from feature file to java code simply add "this is a sting input"
+get an integer from feature file to java code simply add your number
 
 
 
