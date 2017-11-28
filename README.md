@@ -8,9 +8,9 @@ Testing cucmber from this example with a lot of informations (french)
 
 ################################################################
 
-WARNING : sometimes there's a synchronisation issue between .feature files and your java code (eclipse or junit or cucumber issue).
+WARNING : sometimes there's a synchronisation issue between .feature files and your java code (eclipse or junit or cucumber issue) : your .features files updates aren't loaded.
 
-Before running a test you should everytime update your code anywhere like int i = 0; or deleting this line to warn eclipse that your projected has been updated
+Fix it : before running a test you should everytime update your code anywhere like int i = 0; or deleting this line to warn eclipse that your projected has been updated
 
 ################################################################
 
