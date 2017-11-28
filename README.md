@@ -41,7 +41,7 @@ Java code :
 
 @Given("the following animals:")
 
-public void the_following_animals(List<String> animals) {
+public void the_following_animals(List < String > animals) {
 }
 
 
