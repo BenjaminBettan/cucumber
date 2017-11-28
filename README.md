@@ -26,7 +26,7 @@ fix code (delete lines "throw new PendingException();")
 
 it dones nothing but appears green in eclipse jUnit view
 
-
+should generate an html file in your project : target/cucumber/index.html
 
 ################################################################
 
